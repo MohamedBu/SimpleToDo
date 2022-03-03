@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-- Using Kotlin was a different from previous languges I used
+- Using Kotlin was a different from previous languages I used
 
 ## License
 
